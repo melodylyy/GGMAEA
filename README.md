@@ -1,4 +1,4 @@
-# GGMAEA
+# RGDAGMAE
 
 The programs is supported by Python 3.8 . 
 
