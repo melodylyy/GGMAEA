@@ -1,6 +1,6 @@
 # RGDAGMAE
 
-The programs is supported by Python 3.8 . 
+The programs is supported by Python 3.10. 
 
 ## Required Packages
 numpy == 1.24.1   
